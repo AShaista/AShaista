@@ -1,10 +1,11 @@
-- 👋 Hi, I’m an MS Business Analytics and AI student at UT Dallas.
-- 👀  With a background as a data analyst at the Central Bank of Pakistan, I now apply my skills in data science at the NBER. 
-- 🌱 I’m currently learning how social tipping points can drive norm changes, using controlled experiments to unravel these complex dynamics.
-- 💞️ I’m looking to collaborate on Machine Learning, Artificial Intelligence, Data Analysis , Central Banking, Research Methodoligies 
-- 📫 How to reach me on LinkedIn: www.linkedin.com/in/shaistaa
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Outside the lab and classrooms, I'm passionate about permaculture and exploring new cultures through travel!
+- 👋 Hi, I’m Shaista Khan — I hold an MS in Business Analytics & Artificial Intelligence from UT Dallas, with a Graduate Certificate in Applied Machine Learning and a Bachelor's in Business Administration.
+- 👀 I previously worked as a data analyst at the Central Bank of Pakistan and currently contribute to experimental research at the NBER.
+- 🔬 I explore how social tipping points can drive norm changes using controlled behavioral experiments.
+- 🤝 I’m open to collaborations in Machine Learning, Artificial Intelligence, Data Analytics, Central Banking, and Experimental Research.
+- 📫 Connect with me on LinkedIn: [linkedin.com/in/shaistaa](https://www.linkedin.com/in/shaistaa)
+- 😄  Pronouns: She/Her
+- ⚡ Fun fact: I’m passionate about permaculture and love discovering new cultures through travel!
+
 
 <!---
 AShaista/AShaista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
