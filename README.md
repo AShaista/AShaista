@@ -1,13 +1,23 @@
-- 👋 Hi, I’m Shaista — I hold an MS in Business Analytics & Artificial Intelligence from UT Dallas, with a Graduate Certificate in Applied Machine Learning and a Bachelor's in Business Administration.
-- 👀 I previously worked as an Analyst/Deputy Director at the Central Bank of Pakistan and currently contribute to behavioural & experimental research at the NBER.
-- 🔬 I explore how social tipping points can drive norm changes using controlled behavioral experiments.
-- 🤝 I’m open to collaborations in Machine Learning, Artificial Intelligence, Data Analytics, Central Banking, and Behavioural & Experimental Research.
-- 📫 Connect with me on LinkedIn: [linkedin.com/in/shaistaa](https://www.linkedin.com/in/shaistaa)
-- 😄  Pronouns: She/Her
-- ⚡ Fun fact: I’m passionate about permaculture and love discovering new cultures through travel!
+👋 Hi, I’m Shaista — a Program Manager who enjoys turning complex ideas into well-executed programs.
 
+### What I do
+- Lead **end-to-end, cross-functional programs** in technology-enabled and policy-driven environments  
+- Translate requirements into shipped systems (requirements → implementation → UAT → adoption)  
+- Drive measurable improvements in **efficiency, data quality, and user outcomes**
 
-<!---
-AShaista/AShaista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### How I work
+- Data-informed decision making (analytics, experimentation, impact measurement)
+- Strong stakeholder coordination across technical and non-technical teams
+- Continuous feedback loops and iterative delivery
+
+### Background
+- Former **Program Manager / Deputy Director** at the Central Bank of Pakistan  
+- Currently contributing to **behavioral & experimental research** at NBER  
+- Master’s in Business Analytics & AI, Graduate Certificate in Applied Machine Learning, and Bachelor’s in Business Administration
+
+### Interests
+- Program Manager & Technical Program Manager roles  
+- Technology platforms, data-driven products, and complex operating environments
+
+**Connect with me on LinkedIn:**  
+👉 https://www.linkedin.com/in/shaistaa
